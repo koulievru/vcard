@@ -104,7 +104,13 @@ var vCard = (function () {
         return {
             'facebook': '',
             'linkedIn': '',
+            'instagram': '',
+            'whatsapp': '',
+            'telegram': '',
             'twitter': '',
+            'snapchat': '',
+            'skype': '',
+            'vk': '',
             'flickr': ''
         };
     }
