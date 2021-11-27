@@ -101,17 +101,10 @@ var vCard = (function () {
      * @return {object} Social media URL hash group
      */
     function getSocialUrls() {
-        console.log("!!!!!!!!!!!!!-------!!!!!!!!!!!!!");
         return {
             'facebook': '',
             'linkedIn': '',
-            'instagram': '',
-            'whatsapp': '',
-            'telegram': '',
             'twitter': '',
-            'snapchat': '',
-            'skype': '',
-            'vk': '',
             'flickr': ''
         };
     }
