@@ -101,6 +101,7 @@ var vCard = (function () {
      * @return {object} Social media URL hash group
      */
     function getSocialUrls() {
+        console.log("TEST SOCIAL1");
         return {
             'facebook': '',
             'linkedIn': '',
