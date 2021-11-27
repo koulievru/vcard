@@ -101,7 +101,6 @@ var vCard = (function () {
      * @return {object} Social media URL hash group
      */
     function getSocialUrls() {
-        console.log("TEST SOCIAL1");
         return {
             'facebook': '',
             'linkedIn': '',
@@ -270,6 +269,12 @@ var vCard = (function () {
          * @type {String}
          */
         url: '',
+
+        /**
+         * URL pointing to a website that represents the person in some way
+         * @type {String}
+         */
+        iosURL: '',
 
         /**
          * URL pointing to a website that represents the person's work in some way
