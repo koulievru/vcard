@@ -274,7 +274,7 @@ var vCard = (function () {
          * URL pointing to a website that represents the person in some way
          * @type {String}
          */
-        iosURL: '',
+        socialIOSUrls: '',
 
         /**
          * URL pointing to a website that represents the person's work in some way
